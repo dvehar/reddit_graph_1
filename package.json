@@ -1,0 +1,9 @@
+{
+  "name": "fio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "vivagraphjs": "^0.8.2"
+  },
+  "devDependencies": {}
+}
